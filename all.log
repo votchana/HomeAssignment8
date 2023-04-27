@@ -1,0 +1,15 @@
+2023-03-11 18:37:23.442 [main] INFO  WeekDayTest - This is from the test logger: notNull assertion
+2023-03-11 18:37:23.478 [main] INFO  WeekDayTest - This is from the test logger: simple test 
+2023-03-11 18:37:23.483 [main] INFO  WeekDayTest - This is from the test logger: throwing error assertion
+2023-03-11 18:37:23.657 [main] INFO  WeekDayTest - This is from the test logger: Parametrized, CSV
+2023-03-11 18:37:23.673 [main] INFO  WeekDayTest - This is from the test logger: Parametrized, CSV
+2023-03-11 18:37:23.677 [main] INFO  WeekDayTest - This is from the test logger: condition = true assertion
+2023-03-11 18:37:23.693 [main] INFO  WeekDayTest - This is from the test logger: Parametrized, method
+2023-03-11 18:37:23.700 [main] INFO  WeekDayTest - This is from the test logger: Parametrized, method
+2023-03-11 18:37:23.707 [main] INFO  WeekDayTest - This is from the test logger: Parametrized, method
+2023-03-11 18:37:23.714 [main] INFO  WeekDayTest - This is from the test logger: Parametrized, method
+2023-03-11 18:37:23.726 [main] INFO  WeekDayTest - This is from the test logger: Parametrized, value test 
+2023-03-11 18:37:23.732 [main] INFO  WeekDayTest - This is from the test logger: Parametrized, value test 
+2023-03-11 18:37:23.738 [main] INFO  WeekDayTest - This is from the test logger: Parametrized, value test 
+2023-03-11 18:37:23.744 [main] INFO  WeekDayTest - This is from the test logger: Parametrized, value test 
+2023-03-11 18:37:23.749 [main] INFO  WeekDayTest - This is from the test logger: Parametrized, value test 
