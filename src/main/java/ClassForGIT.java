@@ -3,6 +3,7 @@ public class ClassForGIT {
         System.out.println("Hi. This is for initial commit");
         System.out.println("This is to my created branch");
         System.out.println("This is to my created branch");
+        System.out.println("This is to my second created branch");
         return;
     }
 }
